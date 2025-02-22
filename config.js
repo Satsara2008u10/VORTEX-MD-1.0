@@ -6,7 +6,7 @@ function convertToBool(text, fault = "true") {
   return text === fault ? true : false;
 }
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || "HPpCjbRT#4NEbk8nE22k2JfdMreOPM26_4iVozCSko1iT92NT8bs",
+  SESSION_ID: process.env.SESSION_ID || "UmMQlb7D#8BUS_kzkUnsdUZ89aDNWESq7hGUTduZ_HPuIwM6cYik",
   OWNER_NUM: process.env.OWNER_NUM || "94775472083",
   PREFIX:process.env.PREFIX || ".",
   ALIVE_IMG:process.env.ALIVE_IMG||"https://raw.githubusercontent.com/NethminaPansil/Whtsapp-bot/refs/heads/main/images%20(11).jpeg",
